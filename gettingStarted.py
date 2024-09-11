@@ -25,6 +25,7 @@ def welcome_assignment_answers(question):
     return(answer)
 
 print(welcome_assignment_answers(input()))
+print("Hello")
 
 #Questions:
 #"In Slack, what is the secret passphrase posted in the #lab-python-getting-started channel posted by a TA?":
